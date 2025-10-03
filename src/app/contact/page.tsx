@@ -45,14 +45,14 @@ export default function Contact() {
                 <div className="text-2xl text-blue-500 mr-4">📧</div>
                 <div>
                   <h3 className="font-semibold">Email</h3>
-                  <p className="text-gray-600">info@saassolutions.com</p>
+                  <p className="text-gray-600">info@blessedtextsolutions.com</p>
                 </div>
               </div>
               <div className="flex items-center">
                 <div className="text-2xl text-blue-500 mr-4">📞</div>
                 <div>
                   <h3 className="font-semibold">Phone</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+254 790 368 234</p>
                 </div>
               </div>
               <div className="flex items-center">

@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">SaaS Solutions</h3>
+            <h3 className="text-lg font-semibold mb-4">BlessedText Solutions</h3>
             <p className="text-gray-300">
               Professional software as a service for churches and schools.
             </p>
@@ -20,12 +20,12 @@ export default function Footer() {
           </div>
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Info</h3>
-            <p className="text-gray-300">Email: info@saassolutions.com</p>
-            <p className="text-gray-300">Phone: +1 (555) 123-4567</p>
+            <p className="text-gray-300">Email: info@blessedtextsolutions.com</p>
+            <p className="text-gray-300">Phone: +254 790 368 234</p>
           </div>
         </div>
         <div className="mt-8 border-t border-gray-700 pt-8 text-center">
-          <p className="text-gray-300">&copy; 2024 SaaS Solutions. All rights reserved.</p>
+          <p className="text-gray-300">&copy; 2024 BlessedText Solutions. All rights reserved.</p>
         </div>
       </div>
     </footer>

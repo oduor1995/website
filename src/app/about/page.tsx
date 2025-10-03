@@ -3,7 +3,7 @@ export default function About() {
     <div className="min-h-screen py-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h1 className="text-4xl font-bold text-center mb-12 text-gray-800">
-          About SaaS Solutions
+          About BlessedText Solutions
         </h1>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
@@ -12,7 +12,7 @@ export default function About() {
               Our Mission
             </h2>
             <p className="text-gray-600 mb-6">
-              At SaaS Solutions, we are dedicated to empowering organizations with cutting-edge software as a service platforms. Our mission is to streamline operations, enhance efficiency, and foster growth for churches and educational institutions worldwide.
+              At BlessedText Solutions, we are dedicated to empowering organizations with cutting-edge software as a service platforms. Our mission is to streamline operations, enhance efficiency, and foster growth for churches and educational institutions worldwide.
             </p>
             <p className="text-gray-600">
               With years of experience in software development and deep understanding of organizational needs, we create tailored solutions that adapt to your unique requirements and scale with your success.

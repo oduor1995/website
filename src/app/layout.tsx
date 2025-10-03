@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SaaS Solutions for Churches and Schools",
-  description: "Professional software as a service for church management and school management systems.",
+  title: "BlessedText Solutions - SaaS for Churches and Schools",
+  description: "Professional software as a service for church management and school management systems by BlessedText Solutions.",
 };
 
 export default function RootLayout({
